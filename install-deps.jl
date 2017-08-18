@@ -1,0 +1,10 @@
+# Is there a convention for using the packaging system?
+Pkg.update()
+Pkg.add("StaticArrays")
+Pkg.add("Rotations")
+Pkg.add("CoordinateTransformations")
+Pkg.add("Plots")
+#Pkg.add("GR")
+#Pkg.add("GLPlot")
+#Pkg.checkout("GLPlot")
+#Pkg.add("Gtk")
